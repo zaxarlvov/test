@@ -1,2 +1,3 @@
-print ("helo world")
-print ("helo")
+print ("hello world")
+print ("hello")
+print ("hello")
